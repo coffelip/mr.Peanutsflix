@@ -11,15 +11,25 @@ body{
     border-bottom: solid 2px rgb(167, 6, 6);
     padding: 20px;
     font-size: 32px;
-    color:rgb(121, 7, 7)
+    color:rgb(114, 4, 4)
     }
     
     section {
     background: rgb(241, 6, 85)
     padding-bottom: 80px;
     padding-top: 80px;
-    
     }
+
+.chamada{
+
+background: rgb(255, 0, 85);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
 
     .chamada-texto{
 margin-left: 5%;
